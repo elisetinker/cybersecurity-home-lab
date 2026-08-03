@@ -1,7 +1,7 @@
 # Linux Directory Navigation & File Editing Lab 
 
 ## Summary 
-Created a linux practice directory, moved around folders, created a notes file, and edited it using nano.
+Created a Linux practice directory, navigated through folders, created files, and edited them using nano. Learned how Linux organizes files and how to manage them through the command line.
 
 ## Commands Learned
 ### `pwd`

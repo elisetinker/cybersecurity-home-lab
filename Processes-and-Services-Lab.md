@@ -1,7 +1,7 @@
 # Processes and Services Lab
 
 ## Summary
-Practiced viewing and managing Linux processes and services. Learned how to monitor running programs, identify processes, and terminate processes. A process is something that is currently running and a service is a process that is running in the background. 
+Practiced viewing and managing Linux processes and services. Learned how to monitor running programs, identify processes, and terminate processes. A process is something that is currently running and a service is a type of process that is running in the background and provides a specific function.
 
 ## Commands Learned
 ### `ps`

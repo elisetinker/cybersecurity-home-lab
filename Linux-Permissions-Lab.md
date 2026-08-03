@@ -1,7 +1,7 @@
 # Linux Permissions Lab
 
 ## Summary
-Viewed and modified Linux file permissions.  
+Viewed and modified file permissions in Linux. Learned how permissions control who can access and modify files.
 
 
 ## Commands Learned 

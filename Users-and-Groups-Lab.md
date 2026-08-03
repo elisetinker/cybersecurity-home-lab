@@ -1,7 +1,7 @@
 # Users and Groups Lab
 
 ## Summary
-Created a new user and a new group in Linux. Learned how Linux manages user accounts and group membership. 
+Created a new user and group in Linux. Learned how Linux manages accounts and group membership to control access.
 
 ## Commands Learned 
 ### `id`
