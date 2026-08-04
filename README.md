@@ -1,16 +1,19 @@
 # Cybersecurity Home Lab
-Built a Linux practice environment using Kali Linux in a virtual machine.
 
-# Linux Fundamentals
-The collections of labs found in this folder showcase my practice with Linux command-line operations, file management, permissions, and user privileges using a Kali Linux virtual machine.
+## Overview
+This repository documents my cybersecurity home lab work using a Kali Linux virtual machine. I created this lab to practice Linux fundamentals, become more comfortable using the command line, and build the skills needed for future cybersecurity projects.
 
 ## Skills Practiced
-- Navigating the Linux filesystem
-- Creating and managing files
-- Understanding permissions
-- Managing users and privileges 
+
+- Using the Linux command line
+- Navigating and managing files in Linux
+- Managing file permissions and user access
+- Creating and managing users and groups
+- Viewing and managing processes and services
+- Using basic Linux networking commands
+- Documenting technical work with Markdown
+- Using Git and GitHub to track project progress
 
 ## Environment
-- Kali Linux
-- UTM Virtual Machine
-- Linux Terminal
+- Operating System: Kali Linux
+- Platform: UTM Virtual Machine
